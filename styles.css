@@ -1,1 +1,46 @@
-/* Write your CSS here! */
+h1 {
+    color: rgb(241, 155, 74);
+    text-align: center;
+    margin-top: 100px;
+    font-family:fantasy;
+}
+main {
+    text-align: center;
+    margin-left: 450px;
+    margin: 100px;
+    margin-bottom: 8px;
+    color: rgb(204, 143, 85);
+}
+p {
+    text-align: left;
+     color: pink;
+ }
+ body {
+     margin: 8px;
+     background-color: rgb(236, 219, 200);
+     text-align: right;
+     
+ }
+
+#mainHeading {
+    margin-top: 15px;
+    margin-left: 573px;
+    color: red;
+
+}
+.funParagraph {
+    color: green;
+}
+#finalRemarks{
+    text-align: center;
+    margin-right:165px;
+    color: rgb(204, 143, 85);
+    font-family:fantasy;
+}
+footer {
+    color:rgb(163, 113, 66);
+    text-align:center;
+}
+img {
+    margin-right:200px;
+}

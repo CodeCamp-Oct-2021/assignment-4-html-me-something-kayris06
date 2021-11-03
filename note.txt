@@ -2,24 +2,28 @@
 <html>
    <head>
       <title> Krista Valdez</title>
-      <link rel="stylesheet" type="text/css" href="styles.css">
    </head>
    <body>
       
       <h1>An Evening on Her Own</h1>
       <main>There she saw the emptiness as comfort</main>
-      <p id="mainHeading">lonely lies she told her heart
+      <p>lonely lies we tell our hearts<br>
          longing for that fateful kiss<br>
-         the one that carried the poison
-         to end her suffering
+         the one that carries the poison<br>
+         to end your suffering
          </p>
       <img src = "images/Haley.jpg" alt = "Seeing Other People">
-      <div id="testP" class="funParagraph">She exposed her deepest to be in an eternal state of fear
-      </div>
+
       <article>
       <header>
-   <p id="finalRemarks">There she was, staring at the wild world, buried deep within herself.</p></article>
-      </header>
+         <p>enjoy pain<br>
+         because it hurts on the outside<br>
+         not the inside<br>
+         im curious of my limits
+         <img src = "images/83205c4fc23831ef5f4aae4538d21eee.jpg" alt = "Seeing Other People">
+      </p></header>
+   <p>There she was, staring at wild world, buried deep within herself.</p></article>
+      
       <!-- Write your HTML in this file! -->
       <footer>&quot;She said goodbye and there ended her.&quot;</footer>
    </body>

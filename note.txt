@@ -5,12 +5,26 @@
    </head>
    <body>
       
-      <h1>Heres what I want to title</h1>
-      <main>This is where I want to say what this is</main>
-      <footer>This is the end</footer>
-      <p>Here is a paragrap that I will write</p>
-      <img src = "Haley.jpg" alt = "Seeing Other People">
-      <article>What is an article</article>
+      <h1>An Evening on Her Own</h1>
+      <main>There she saw the emptiness as comfort</main>
+      <p>lonely lies we tell our hearts<br>
+         longing for that fateful kiss<br>
+         the one that carries the poison<br>
+         to end your suffering
+         </p>
+      <img src = "images/Haley.jpg" alt = "Seeing Other People">
+
+      <article>
+      <header>
+         <p>enjoy pain<br>
+         because it hurts on the outside<br>
+         not the inside<br>
+         im curious of my limits
+         <img src = "images/83205c4fc23831ef5f4aae4538d21eee.jpg" alt = "Seeing Other People">
+      </p></header>
+   <p>There she was, staring at wild world, buried deep within herself.</p></article>
+      
       <!-- Write your HTML in this file! -->
+      <footer>&quot;She said goodbye and there ended her.&quot;</footer>
    </body>
 </html>

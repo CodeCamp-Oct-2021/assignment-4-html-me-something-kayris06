@@ -30,10 +30,12 @@ p {
 }
 .funParagraph {
     color: green;
+    text-align: right;
+    margin-right: 200px;
 }
 #finalRemarks{
     text-align: center;
-    margin-right:165px;
+    margin-right:215px;
     color: rgb(204, 143, 85);
     font-family:fantasy;
 }
